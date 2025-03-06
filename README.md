@@ -55,7 +55,6 @@ Esse arquivo define um serviço que recebe um `UserRequest` e retorna um `User`.
 | **Protobuf + gRPC** | Binário | RPC | Sim | **Alta** |
 | **JSON + REST** | Texto | HTTP | Não | Média |
 | **XML + SOAP** | Texto | HTTP/SOAP | Não | Baixa |
-| **Avro** | Binário | Mensagens/Eventos | Sim | Alta |
 
 #### **Por que Protobuf + gRPC?**
 - **Mais rápido e eficiente:** Protobuf é binário e compacto, enquanto JSON e XML são verbosos.
