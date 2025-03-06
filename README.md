@@ -1,10 +1,10 @@
 
 
-## **Seminário sobre Protobuf e gRPC**
+## **Protobuf e gRPC**
 
 ---
 
-### **1. Qual problema a tecnologia resolve?** (5 min)
+### **1. Qual problema a tecnologia resolve?**
 
 #### **Contextualização**
 - Em sistemas distribuídos e aplicações de microserviços, a comunicação eficiente entre serviços é um desafio crítico.
@@ -18,7 +18,7 @@
 
 ---
 
-### **2. Como ela resolve?** (5 min)
+### **2. Como ela resolve?**
 
 #### **Protocol Buffers (Protobuf)**
 - É um **método de serialização de dados** criado pelo Google.
@@ -47,7 +47,7 @@ Esse arquivo define um serviço que recebe um `UserRequest` e retorna um `User`.
 
 ---
 
-### **3. Quais as alternativas e comparações?** (5 min)
+### **3. Quais as alternativas e comparações?**
 
 #### **Alternativas**
 | Tecnologia  | Formato de Dados | Comunicação | Serialização | Performance |
@@ -65,7 +65,7 @@ Esse arquivo define um serviço que recebe um `UserRequest` e retorna um `User`.
 
 ---
 
-### **4. Demonstração prática** (15 min)
+### **4. Demonstração prática**
 
 #### **Passo 1: Instalar dependências**
 ```bash
@@ -154,7 +154,7 @@ Nome: Alice, Idade: 30
 
 ---
 
-### **5. Laboratório para os colegas** (Atividade prática)
+### **5. Laboratório para os meus amiguinhos** :nerd_face:
 
 #### **Objetivo**
 Criar um serviço gRPC para um sistema de pedidos, onde clientes podem solicitar um produto e obter informações sobre ele.
